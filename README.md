@@ -6,10 +6,10 @@ Detailed writeups for CyberDefenders blue team challenges.
 
 | Challenge | Category | Difficulty | Writeup |
 |-----------|----------|------------|---------|
-| GetPDF | Malware Analysis | Easy | [Link](getpdf.md) |
-| Seized | Forensics | Easy | [Link](seized.md) |
-| Hammered | Log Analysis | Medium | [Link](hammered.md) |
-| DumpMe | Memory Forensics | Medium | [Link](dumpme.md) |
+| GetPDF | Malware Analysis | Easy | [Link](GetPDF_CyberDefenders_Writeup.md) |
+| Seized | Forensics | Easy | [Link](Seized_CyberDefenders_Writeup.md) |
+| Hammered | Log Analysis | Medium | [Link](Hammered_CyberDefenders_Writeup.md) |
+| DumpMe | Memory Forensics | Medium | [Link](DumpMe_CyberDefenders_Writeup.md) |
 
 ## About
 
